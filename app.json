@@ -1,12 +1,11 @@
 {
   "expo": {
     "name": "ReactNativeTask",
-    "slug": "ReactNativeTask",
+    "slug": "reactnativetask",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
-    "newArchEnabled": true,
     "splash": {
       "image": "./assets/splash-icon.png",
       "resizeMode": "contain",
@@ -16,6 +15,7 @@
       "supportsTablet": true
     },
     "android": {
+      "package": "com.zinnatria.smartlist",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
@@ -24,6 +24,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "82f2d063-0a3e-4357-9a58-672812d2a5d8"
+      }
+    },
+    "owner": "zinnatria"
   }
 }
