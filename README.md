@@ -5,6 +5,7 @@ A simple and elegant task management mobile application built with **React Nativ
 ---
 ## 📱 Screens
 
+- **Login Screen:** Login form to access the app.
 - **Dashboard:** Displays task list with search and filter options.
 - **Add/Edit Task:** Form to create or update a task.
 - **View Task:** Detailed view of the task content.
