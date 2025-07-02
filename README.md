@@ -27,13 +27,11 @@ A simple and elegant task management mobile application built with **React Nativ
 
 ---
 
-🛠️ Dependencies
-React Native
+## 🛠️ Dependencies
 
-Expo
-
-@expo/vector-icons
-
-@react-native-picker/picker
+- React Native
+- Expo
+- @expo/vector-icons
+- @react-native-picker/picker
 
 
