@@ -26,3 +26,14 @@ A simple and elegant task management mobile application built with **React Nativ
 - **Offline Ready:** All data is stored locally within the app state.
 
 ---
+
+🛠️ Dependencies
+React Native
+
+Expo
+
+@expo/vector-icons
+
+@react-native-picker/picker
+
+
